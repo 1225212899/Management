@@ -1,0 +1,15 @@
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\bin\Debug\数据库信息管理系统.exe.config
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\bin\Debug\数据库信息管理系统.exe
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\bin\Debug\数据库信息管理系统.pdb
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.csproj.AssemblyReference.cache
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.FormLogin.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.FormMain.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.FormRegister.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.Properties.Resources.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.csproj.GenerateResource.cache
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.csproj.CoreCompileInputs.cache
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.exe
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.pdb
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.FormRePassword.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.EmployeeAdd.resources
+C:\Users\浩\source\repos\数据库信息管理系统\数据库信息管理系统\obj\Debug\数据库信息管理系统.EmployeeModify.resources
